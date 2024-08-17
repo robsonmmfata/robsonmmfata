@@ -17,7 +17,7 @@
 
 <h2 align="center" >⚡<b>Minhas Atividades</b>⚡</h2>
 
-<div align="center"><img align="center" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+
   <a href="https://github.com/robsonmmfata">
   
    
@@ -29,6 +29,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=robsonmmfata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonmmfata&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<div align="center"><img align="center" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
  <h3 align="left">Linguagens que sei o avançado:</h3>
     <div style="display: inline_block"><br>
