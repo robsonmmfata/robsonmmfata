@@ -15,8 +15,9 @@
 </div>
 
 
+
 <h2 align="center" >⚡<b>Minhas Atividades</b>⚡</h2>
-<div align="center">
+<div align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=robsonmmfata&label=Profile%20views&color=0e75b6&style=flat" alt="robsonmmfata" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robsonmmfata&" alt="robsonmmfata" /></p>
 
   <a href="https://github.com/robsonmmfata">
