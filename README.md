@@ -12,8 +12,10 @@
 - <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 <h2 align="center" >⚡Stats⚡</h2>
 <div align="center">
-  <a href="https://github.com/carlosmmfata">
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=robsonmmfata&label=Profile%20views&color=0e75b6&style=flat" alt="robsonmmfata" /> 
+  <a href="https://github.com/robsonmmfata">
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=robsonmmfata&label=Profile%20views&color=0e75b6&style=flat" alt="robsonmmfata" />
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robsonmmfata&" alt="robsonmmfata" /></p>
+
    
 </p>
 
