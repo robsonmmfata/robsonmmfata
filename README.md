@@ -7,16 +7,20 @@
   - 🔭 Atualmente estou trabalhando como freelancer ...
   <br>
 - 🌱 Estudando Node js,React js,React Native,Python,Vue Js,Mongodb,Ionic E,Angular. </br>
+</br></br><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robsonmmfata" alt="robsonmmfata" /></a> </p>
 </div>
 - <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 <h2 align="center" >⚡Stats⚡</h2>
 <div align="center">
   <a href="https://github.com/carlosmmfata">
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=robsonmmfata&label=Profile%20views&color=0e75b6&style=flat" alt="robsonmmfata" /> </p>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=robsonmmfata&label=Profile%20views&color=0e75b6&style=flat" alt="robsonmmfata" /> 
+   
+</p>
 
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=robsonmmfata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonmmfata&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
  <h3 align="left">Linguagens que sei o avançado:</h3>
     <div style="display: inline_block"><br>
   <img align="center" alt="Robson-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
