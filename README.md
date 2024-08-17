@@ -13,7 +13,7 @@
 - 🌱<b> Estudando Node js,React js,React Native,Python,Vue Js,Mongodb,Ionic E,Angular.</b> </br>
 </br></br><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robsonmmfata" alt="robsonmmfata" /></a> </p>
 </div>
--+me+chamo+robson+alex!👋;
+
 
 <h2 align="center" >⚡<b>Minhas Atividades</b>⚡</h2>
 
