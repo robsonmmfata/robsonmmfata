@@ -1,23 +1,30 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+robson+alex!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+robson+alex!👋;" />
+
 </h1>
 
 
+
+
+
 <div  align="center" >
-  - 🔭 Atualmente estou trabalhando como freelancer ...
+  - 🔭<b> Atualmente estou trabalhando como freelancer ...</b>
   <br>
-- 🌱 Estudando Node js,React js,React Native,Python,Vue Js,Mongodb,Ionic E,Angular. </br>
+- 🌱<b> Estudando Node js,React js,React Native,Python,Vue Js,Mongodb,Ionic E,Angular.</b> </br>
 </br></br><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robsonmmfata" alt="robsonmmfata" /></a> </p>
 </div>
-- <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
-<h2 align="center" >⚡Stats⚡</h2>
-<div align="center">
+-+me+chamo+robson+alex!👋;
+
+<h2 align="center" >⚡<b>Minhas Atividades</b>⚡</h2>
+
+<div align="center"></br></br></br></br><img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
   <a href="https://github.com/robsonmmfata">
   
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robsonmmfata&" alt="robsonmmfata" /></p>
+   
 
    
-</p>
+</p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robsonmmfata&" alt="robsonmmfata" /></p>
+
 
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=robsonmmfata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonmmfata&layout=compact&langs_count=7&theme=dracula"/>
