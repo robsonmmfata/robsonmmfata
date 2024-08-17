@@ -17,7 +17,7 @@
 
 <h2 align="center" >⚡<b>Minhas Atividades</b>⚡</h2>
 
-<div align="center"></br></br></br></br><img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<div align="center"><img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
   <a href="https://github.com/robsonmmfata">
   
    
