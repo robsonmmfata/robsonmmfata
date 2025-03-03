@@ -68,7 +68,11 @@
     <table>
         <tr>
             <td> <h1 align="left">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=250&center=true&vCenter=true&width=5000&height=250&duration=4000&lines=obrigado+pela+atenção!;" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robsonmmfata/robsonmmfata/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robsonmmfata/robsonmmfata/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/robsonmmfata/robsonmmfata/output/github-contribution-grid-snake.svg">
+</picture>
 </h1></td>
             <td></td>
         </tr>
