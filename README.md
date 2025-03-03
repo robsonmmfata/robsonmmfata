@@ -85,4 +85,3 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonmmfata&repo=app-delivery-lanchonete&theme=radical)](https://github.com/carlosmmfata/app-delivery-lanchonete)</br>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robsonmmfata&repo=-App-Estacionamento-de-Veiculos&theme=radical)](https://github.com/carlosmmfata/-App-Estacionamento-de-Veiculos/)
 
- ![Snake animation](https://github.com/robsonmmfata/robsonmmfata/blob/output/github-contribution-grid-snake.svg)</br>
