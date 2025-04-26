@@ -53,15 +53,7 @@
 
 * Aprofundando conhecimentos em arquitetura de microserviços.
 * Explorando novas features do React 19 e Python 3.12.
-* Aplicando conceitos da <b>Engenharia de Software <\b>em projetos práticos.
-
-
-       
-    
-   
-     
-     
-  
+* Aplicando conceitos da <b>Engenharia de Software em projetos práticos.  
 </div>
 
 
