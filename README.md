@@ -2,21 +2,17 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+robson+alex!👋;" />
 
 </h1>
+💻 Sou um <b>Desenvolvedor Full Stack Freelancer</b> 💼 com <b>5 anos de experiência</b>✨ na criação de soluções web robustas e escaláveis 🚀. Apaixonado por transformar ideias em código funcional 💡 e por aprender continuamente novas tecnologias 🌱.
 
-
-
-
-
-<div  align="center" >
-  - 🔭<b> Atualmente estou trabalhando como freelancer ...</b>
-  <br>
-- 🌱<b> Estudando Node js,React js,React Native,Python,Vue Js,Mongodb,Ionic E,Angular.</b> </br>
-</br></br><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robsonmmfata" alt="robsonmmfata" /></a> </p>
+🎓 Formado em <b>Análise e Desenvolvimento de Sistemas (ADS)</b> e atualmente cursando <b>Engenharia de Software📚⚙️.</b> </br>
+</br></br>
+<h2 align="center" >⚡<b>Meu GitStats⚡</b>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robsonmmfata" alt="robsonmmfata" /></a> </p>
 </div>
 
 
 
-<h2 align="center" >⚡<b>Minhas habilidades⚡</b>
+
 
    
 </p>
