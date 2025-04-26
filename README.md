@@ -2,14 +2,14 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+robson+alex!👋;" />
 
 </h1>
-💻 Sou um <b>Desenvolvedor Full Stack Freelancer</b> 💼 com <b>5 anos de experiência</b>✨ na criação de soluções web robustas e escaláveis 🚀. Apaixonado por transformar ideias em código funcional 💡 e por aprender continuamente novas tecnologias 🌱.
+💻 Sou um <b>Desenvolvedor Full Stack Freelancer</b> 💼 com <b>5 anos de experiência</b>✨ na criação de soluções web robustas e escaláveis 🚀. Apaixonado por transformar ideias em código funcional 💡 e por aprender continuamente novas tecnologias 🌱.</h1>
 
 🎓 Formado em <b>Análise e Desenvolvimento de Sistemas (ADS)</b> e atualmente cursando <b>Engenharia de Software📚⚙️.</b> </br>
 </br></br>
-<h2 align="center" >⚡<b>Meu GitStats⚡</b>
+<h2 align="center" >⚡<b>Meu GitStats⚡</b></h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robsonmmfata" alt="robsonmmfata" /></a> </p>
 </div>
-
+</h2>
 
 
 
@@ -19,23 +19,13 @@
 <div>
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=robsonmmfata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonmmfata&layout=compact&langs_count=7&theme=dracula"/>
+</div></p>
 
-</div>
 
 
-   <h3 align="center">Linguagens que sei o avançado:</h3>
-    <div align="center">
-  <img align="center" alt="Robson-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-  <img align="center" alt="robson-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />   <img align="center" alt="rooh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="rooh-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="roooh-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="rooh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rooh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rooh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="rooh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="rooh-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-    <img align="center" alt="rooh-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
-    </br><div align="left"><img align="left" alt="Developer vector created by storyset - www.freepik.com" height="180" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png"> <div style="display: inline_block"></br>
+
+       
+    
    
      
      
