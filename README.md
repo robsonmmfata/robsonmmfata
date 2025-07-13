@@ -69,7 +69,7 @@
 ### 🌱 O que estou aprendendo / Foco atual:
 
 * ✨ Aprofundando conhecimentos em **arquitetura de microserviços**.
-* 🚀 Explorando novas features do **React 19** e **Python 3.12**.
+* 🚀 Explorando novas features do **React 19** .
 * 🛠️ Aplicando conceitos da **Engenharia de Software** em projetos práticos.
 
 
