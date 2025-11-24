@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+robson+alex!👋;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+josue+geraldo!👋;" />
 
 </h1>
 💻 Sou um <b>Desenvolvedor Full Stack Freelancer</b> 💼 com <b>13 anos de experiência</b>✨ na criação de soluções web robustas e escaláveis 🚀. Apaixonado por transformar ideias em código funcional 💡 e por aprender continuamente novas tecnologias 🌱.</h1>
